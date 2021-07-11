@@ -1,0 +1,1 @@
+Basic Core ASSIGNMENT(just i want to try to call every methode in the main).
